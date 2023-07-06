@@ -1,7 +1,7 @@
-Hash Table Implementation
+# Hash Table Implementation
 This repository contains C++ code that demonstrates a hash table implementation using separate chaining for collision resolution. The hash table allows you to insert, search, and remove key-value pairs efficiently.
 
-Usage
+# Usage
 After running the program, you will be presented with a menu where you can choose different operations on the hash table:
 
 Insert element into the table: Allows you to insert a key-value pair into the hash table.
@@ -10,11 +10,11 @@ Delete element at a key: Allows you to remove an element from the hash table bas
 Exit: Quits the program.
 Follow the prompts on the screen to input your choices and interact with the hash table.
 
-Contributing
+# Contributing
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License.
 
-Acknowledgements
+# Acknowledgements
 This code provides a basic implementation of a hash table using separate chaining.
